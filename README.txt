@@ -2,11 +2,18 @@
 |                                                                                                                                 |
 |  Installation :                                                                                                                 |
 |                                                                                                                                 |
-|  - Download the "TriageTool" directory, and place it in the root of the C drive                                                 |
+|  - Download the "TriageTool" as a zip file                                                                                      |
+|                                                                                                                                 |
+|  - Open the zip file, and browse through the folders, until you can see the folder named "TriageTool"                           |
+|                                                                                                                                 |
+|  - Copy this folder to the root of the C drive. This will result in the following folder structure :                            |
+|      C:\TriageTool\Pscx                                                                                                         |
 |                                                                                                                                 |
 |  - Open a command-line window (run-as administrator) and enter the following commands:                                          |
 |      1) Powershell                                                                                                              |
 |      2) Set-ExecutionPolicy Unrestricted                                                                                        |
+|                                                                                                                                 |
+|  - Close the command-line window                                                                                                |
 |                                                                                                                                 |
 |  - Run the Launch.bat file from C:\TriageTool to create the required folder structure and launch the program                    |
 |                                                                                                                                 |
