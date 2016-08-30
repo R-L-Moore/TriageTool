@@ -21,9 +21,16 @@
 |                                                                                                                                 |
 |    If this file is not altered, the program will create a default output folder in the following location ;                     |
 |    C:\TriageTool\Reports                                                                                                        |
-|                                                                                                                                 |                                                                                                     |
+|                                                                                                                                 |
 |    This report location can be changed at any time by editing this file, but the program will need to be closed and reloaded    |
-|    for the change to take effect, and any reports created before this change would need to be moved to the new location         |                                                                                                                                |
+|    for the change to take effect, and any reports created before this change would need to be moved to the new location         |
+|                                                                                                                                 |
+|  - By default, the HashList.txt file under C:\TriageTool is empty, and so the program will not scan for specific known files    |
+|                                                                                                                                 |
+|    To enable the program to scan for known files, the relevant hash values (MD5) need to be added into this file, with each     |
+|    value being on its own line.                                                                                                 |
+|                                                                                                                                 |
+|    These values do not need to be separated using any characters other than a new-line (no commas, semi-colons, etc)            |
 |                                                                                                                                 |
 |  - Run the Launch.bat file from C:\TriageTool to create the required folder structure and launch the program                    |
 |                                                                                                                                 |
