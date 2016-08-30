@@ -15,6 +15,16 @@
 |                                                                                                                                 |
 |  - Close the command-line window                                                                                                |
 |                                                                                                                                 |
+|  - If you want to specify an output location for the reports, this can be done by editing the "ReportLocation.txt" file in the  |
+|    following location;                                                                                                          |
+|    C:\TriageTool\                                                                                                               |
+|                                                                                                                                 |
+|    If this file is not altered, the program will create a default output folder in the following location ;                     |
+|    C:\TriageTool\Reports                                                                                                        |
+|                                                                                                                                 |                                                                                                     |
+|    This report location can be changed at any time by editing this file, but the program will need to be closed and reloaded    |
+|    for the change to take effect, and any reports created before this change would need to be moved to the new location         |                                                                                                                                |
+|                                                                                                                                 |
 |  - Run the Launch.bat file from C:\TriageTool to create the required folder structure and launch the program                    |
 |                                                                                                                                 |
 |=================================================================================================================================|
