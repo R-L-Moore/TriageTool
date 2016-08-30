@@ -36,19 +36,6 @@
 |                                                                                                                                 |
 |=================================================================================================================================|
 |                                                                                                                                 |
-|  Changing the default save directory for reports :                                                                              |
-|                                                                                                                                 |
-|  The location where the report is created can be altered by changing the location listed in "C:\TriageTool\ReportLocation.txt"  |
-|                                                                                                                                 |
-|=================================================================================================================================|
-|                                                                                                                                 |
-|  Editing the Hash list :                                                                                                        |
-|                                                                                                                                 |
-|  Any hash values (MD5) that you want the tool to scan for can be added into the C:\TriageTool\HashList.txt" file                |
-|  For this to scan correctly, and remain clear, each hash needs to be on a new line                                              |
-|                                                                                                                                 |
-|=================================================================================================================================|
-|                                                                                                                                 |
 |  Program functions :                                                                                                            |
 |                                                                                                                                 |
 |  - Runs in the background, and detects when a new device is connected                                                           |
